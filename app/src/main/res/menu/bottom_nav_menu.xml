@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_cookbook"
+        android:icon="@drawable/ic_cookbook_black_24dp"
+        android:title="@string/title_cookbook" />
+
+    <item
+        android:id="@+id/navigation_shopping"
+        android:icon="@drawable/ic_shopping_black_24dp"
+        android:title="@string/title_shopping" />
+
+    <item
+        android:id="@+id/navigation_kitchen"
+        android:icon="@drawable/ic_kitchen_black_24dp"
+        android:title="@string/title_kitchen" />
+
+</menu>
